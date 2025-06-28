@@ -1,4 +1,5 @@
 import streamlit as st
+
 def tampilkan_kontak():
     st.title("Kontak")
     st.write("Hubungi saya melalui tautan berikut:")
@@ -14,4 +15,4 @@ def tampilkan_kontak():
     )
 
     # Email
-    st.write("📧 Email: your.email@example.com")
+    st.write("📧 Email: windyfalonalubis@gmail.com")
